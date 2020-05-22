@@ -1,6 +1,6 @@
-# Getting ready for class: an alternative to Foundations
+# Getting ready for class: Foundations
 
-If you cannot take our Foundations class before you start our immersive program, we have a solution for you! We've picked out two different paths -- one for people who like videos and one for people who prefer reading -- for you to take.
+If you'd like to get a head start before the first class, we've got resource for you! We've picked out two different paths -- one for people who like videos and one for people who prefer reading -- for you to take.
 
 Before you get started, though, reach out to the person you've been working with for enrollment and ask them to connect you to an instructor. We'll go ahead and add you to our chat system (Slack) and set up a conversation with you and an instructor to help you get started.
 
@@ -31,7 +31,3 @@ If you prefer reading, go to the [Learn Web Development](https://developer.mozil
 - CSS
 - JavaScript first steps
 - JavaScript building blocks
-
-## Next steps
-
-If you work through all of the above, you'll know what you need to in order to start class. If you have more time left over, we recommend going ahead and [getting your computer set up for class](setup.md).
